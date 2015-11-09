@@ -1,0 +1,2 @@
+# omstrap
+This is initial
